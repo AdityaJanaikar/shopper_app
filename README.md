@@ -1,6 +1,6 @@
 # shopper_app
 
-A new Flutter project.
+A Flutter project which facilitates buying and selling of goods(currently biscuits).
 
 ## Getting Started
 
